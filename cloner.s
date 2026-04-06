@@ -1,7 +1,4 @@
-; -----------------------------------------------------------------------------
-; Fibonacci Calculator (Recursive) - x86-64 NASM for Linux
-; Complexity: High (Manual Stack Management & System Calls)
-; -----------------------------------------------------------------------------
+
 
 section .data
     msg      db "Result: ", 0
